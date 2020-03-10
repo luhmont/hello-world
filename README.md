@@ -1,2 +1,3 @@
 # hello-world
-small repository
+
+Hello, my name is Mont, & I like Java & Software Development.
